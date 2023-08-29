@@ -1,0 +1,76 @@
+.content {
+  background-color: #f0f2f5;
+  padding-top: 72px;
+  padding-bottom: 200px;
+}
+
+.left-content h4 {
+  font-weight: 500;
+  font-size: 28px;
+  max-width: 500px;
+}
+
+.left-content img {
+  max-height: 105px;
+  margin-left: -30px;
+}
+
+.left-content {
+  padding-top: 110px;
+}
+
+.container {
+  max-width: 980px;
+}
+
+.right-content {
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.right-content input {
+  padding: 10px 15px;
+  margin-bottom: 15px;
+}
+
+.right-content input::placeholder {
+  font-size: 17px;
+}
+
+.btn-login {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.forget-password {
+  margin-top: 15px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+.forget-password a {
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.btn-register {
+  background-color: #42b72a;
+  border: 0;
+  padding: 10px 15px;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.information a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #000;
+}
+
+.information {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 15px;
+}
